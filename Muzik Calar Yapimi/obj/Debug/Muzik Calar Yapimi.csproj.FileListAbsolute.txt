@@ -1,0 +1,15 @@
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\bin\Debug\Muzik Calar Yapimi.exe.config
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\bin\Debug\Muzik Calar Yapimi.exe
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\bin\Debug\Muzik Calar Yapimi.pdb
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\bin\Debug\Interop.WMPLib.dll
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\Muzik Calar Yapimi.csprojAssemblyReference.cache
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\Interop.WMPLib.dll
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\Muzik Calar Yapimi.csproj.ResolveComReference.cache
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\Muzik_Calar_Yapimi.Form1.resources
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\Muzik_Calar_Yapimi.Properties.Resources.resources
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\Muzik Calar Yapimi.csproj.GenerateResource.cache
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\Muzik Calar Yapimi.csproj.CoreCompileInputs.cache
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\Muzik Calar Yapimi.exe
+C:\Users\reela\source\repos\Muzik Calar Yapimi\Muzik Calar Yapimi\obj\Debug\Muzik Calar Yapimi.pdb

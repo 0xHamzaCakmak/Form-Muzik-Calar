@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.779
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Muzik Calar Yapimi", "Muzik Calar Yapimi\Muzik Calar Yapimi.csproj", "{A6D4E88B-6A32-4D69-BF6A-E19163C97BCF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A6D4E88B-6A32-4D69-BF6A-E19163C97BCF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A6D4E88B-6A32-4D69-BF6A-E19163C97BCF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A6D4E88B-6A32-4D69-BF6A-E19163C97BCF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A6D4E88B-6A32-4D69-BF6A-E19163C97BCF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {557D2D17-0A53-4227-BEB1-83CC244E0F4A}
+	EndGlobalSection
+EndGlobal
